@@ -14,7 +14,7 @@ RVM-with is now available as a separate gem
 
 It should be simple as:
 
-    require "rvm-with"
+    require "rvm/with"
     RVM.with "1.9.3" do |r|
       puts r.execute "rvm info"
     end
