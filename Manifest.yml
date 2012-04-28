@@ -1,0 +1,6 @@
+- History.md
+- Manifest.yml
+- README.md
+- Rakefile
+- lib/rvm/with.rb
+- lib/rvm/with/version.rb
